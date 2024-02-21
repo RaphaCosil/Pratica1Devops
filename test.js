@@ -1,5 +1,4 @@
-//Arquivo deve ser ignorado
-
+//Possível funçã
 function restoDivisao(x, y) {
   return x % y;
 }
