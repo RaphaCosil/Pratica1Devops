@@ -4,7 +4,6 @@ function restoDivisao(x, y) {
 }
 console.log(restoDivisao(4, 3));
 
-//Função de potenciação
  function potenciacao(x,y){
   if(y==0){
     return 1
