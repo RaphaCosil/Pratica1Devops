@@ -1,24 +1,24 @@
-//Função retorna a soma a partir de dois parametros.
+//Função retorna a soma a partir de dois parametros inteiros.
 function soma(x, y){
 
     return x+y
     
     }
-//Função retorna a subtração a partir de dois parametros. 
+//Função retorna a subtração a partir de dois parametros inteiros. 
     
     function subtracao(x, y){
     
     return x-y
     
     }
- //Função retorna a multiplição a partir de dois parametros.
+ //Função retorna a multiplição a partir de dois parametros inteiros.
    
     function multiplicacao(x, y){
     
     return x*y
     
     }
-//Função retorna a divisao a partir de dois parametros.
+//Função retorna a divisao a partir de dois parametros inteiros.
     
     function divisao(x, y){
     
@@ -26,7 +26,7 @@ function soma(x, y){
     
     }
     
-// Testes dos métodos    
+// Testes dos métodos com valores inteiros   
     console.log(soma(1, 2))
     
     console.log(subtracao(3,1))
