@@ -2,7 +2,7 @@
 <h3 align="center">Somos os alunos Arthur Stalberg e Raphael Costa</h3>
 
 - Projeto [Calculator](https://github.com/RaphaCosil/Pratica1Devops):
-O objetivo do projeto Calculator é fazer contas de soma, subtração, multiplicação e divisão.
+O objetivo do projeto Calculator é fazer contas de soma, subtração, multiplicação, divisão e potenciação.
 <p align="left">
 </p>
 
