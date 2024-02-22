@@ -1,9 +1,8 @@
-<h1 align="center">Somos os alunos Arthur Stalberg e Raphael Costa</h1>
-<h3 align="center">Calculator</h3>
+<h1 align="center">Calculator</h1>
+<h3 align="center">Somos os alunos Arthur Stalberg e Raphael Costa</h3>
 
 - Projeto [Calculator](https://github.com/RaphaCosil/Pratica1Devops):
 O objetivo do projeto Calculator é fazer contas de soma, subtração, multiplicação e divisão.
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
