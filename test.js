@@ -4,6 +4,7 @@ function restoDivisao(x, y) {
 }
 console.log(restoDivisao(4, 3));
 
+// Função que retorna a ponteciação de um número a partir de dois números inteiros
  function potenciacao(x,y){
   if(y==0){
     return 1
